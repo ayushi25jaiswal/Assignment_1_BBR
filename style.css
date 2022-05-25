@@ -134,3 +134,11 @@ body{
   margin: 20px;
   padding: 10px;
 }
+
+.btn{
+  width: 30%;
+}
+
+.Donate{
+  background-color: #EFEAD8;
+}
