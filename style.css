@@ -12,6 +12,12 @@ body{
     
   }
 
+  .container-top{
+    background-color: #3BACB6;
+    height: 15px;
+    width: 100%;
+    margin:0;
+  }
   
 
   .header a {
@@ -118,6 +124,7 @@ body{
 
 .text-box h1{
   font-size: 2.5em;
+  margin: 10px 0px;
 }
 
 .text-box button{
@@ -315,6 +322,14 @@ input[type=text] {
   align-items: flex-start;
   align-content: center;
 }
+
+.footer-end{
+  background-color: grey;
+  height: 30px;
+  width: 100%;
+  margin:0;
+}
+
 .footer h2 h3{
   color: white;
 }
